@@ -6,3 +6,6 @@ Feature: Navigation throw pages
     When I click on Get Started Button
     Then I am redirected to Getting Started page
     And I see Angular icon
+
+#  Scenario: Navigation thru component pages using side menu
+
